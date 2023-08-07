@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Kalo ini kalian bisa latihan untuk bikin 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Kalo ini kalian bisa latihan untuk bikin urutan
 
 ## Available Scripts
 
